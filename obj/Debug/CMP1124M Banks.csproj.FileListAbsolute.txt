@@ -1,0 +1,23 @@
+c:\users\adam\documents\visual studio 2013\Projects\CMP1124M Banks\CMP1124M Banks\bin\Debug\CMP1124M Banks.exe.config
+C:\Users\Adam\Desktop\CMP1124M Banks\CMP1124M Banks\bin\Debug\CMP1124M Banks.exe.config
+C:\Users\Adam\Desktop\CMP1124M Banks\CMP1124M Banks\bin\Debug\CMP1124M Banks.exe
+C:\Users\Adam\Desktop\CMP1124M Banks\CMP1124M Banks\bin\Debug\CMP1124M Banks.pdb
+C:\Users\Adam\Desktop\CMP1124M Banks\CMP1124M Banks\obj\Debug\CMP1124M Banks.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\CMP1124M Banks\CMP1124M Banks\obj\Debug\CMP1124M Banks.exe
+C:\Users\Adam\Desktop\CMP1124M Banks\CMP1124M Banks\obj\Debug\CMP1124M Banks.pdb
+D:\CMP1124M Banks\CMP1124M Banks\bin\Debug\CMP1124M Banks.exe.config
+D:\CMP1124M Banks\CMP1124M Banks\obj\Debug\CMP1124M Banks.exe
+D:\CMP1124M Banks\CMP1124M Banks\obj\Debug\CMP1124M Banks.pdb
+D:\CMP1124M Banks\CMP1124M Banks\bin\Debug\CMP1124M Banks.exe
+D:\CMP1124M Banks\CMP1124M Banks\bin\Debug\CMP1124M Banks.pdb
+D:\CMP1124M Banks\CMP1124M Banks\obj\Debug\CMP1124M Banks.csprojResolveAssemblyReference.cache
+D:\Uni Work\CMP1124M Banks\CMP1124M Banks\bin\Debug\CMP1124M Banks.exe.config
+D:\Uni Work\CMP1124M Banks\CMP1124M Banks\obj\Debug\CMP1124M Banks.exe
+D:\Uni Work\CMP1124M Banks\CMP1124M Banks\obj\Debug\CMP1124M Banks.pdb
+D:\Uni Work\CMP1124M Banks\CMP1124M Banks\bin\Debug\CMP1124M Banks.exe
+D:\Uni Work\CMP1124M Banks\CMP1124M Banks\bin\Debug\CMP1124M Banks.pdb
+D:\Uni Work\CMP1124M Banks\CMP1124M Banks\obj\Debug\CMP1124M Banks.csprojResolveAssemblyReference.cache
+D:\Uni Work\CMP1124M Banks\CMP1124M Banks\bin\Debug\CMP1124M Banks.exe.manifest
+D:\Uni Work\CMP1124M Banks\CMP1124M Banks\bin\Debug\CMP1124M Banks.application
+D:\Uni Work\CMP1124M Banks\CMP1124M Banks\obj\Debug\CMP1124M Banks.exe.manifest
+D:\Uni Work\CMP1124M Banks\CMP1124M Banks\obj\Debug\CMP1124M Banks.application

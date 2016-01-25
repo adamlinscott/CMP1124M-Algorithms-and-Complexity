@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CMP1124M Banks.exe" version="1.0.0.0" publicKeyToken="c6c76a665c1b94f4" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CMP1124M Banks" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CMP1124M Banks.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CMP1124M Banks.exe" size="26624">
+      <assemblyIdentity name="CMP1124M Banks" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Q3dgXLRtM+3IWDdJYkV1rL4MrVbdxp62LYz2NNSuD/s=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CMP1124M Banks.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ADAM-LAPTOP\Adam" issuerKeyHash="2f7db48272909ca9c1cb829611aa8e1b7158d19e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>KGb4I0pt3SG4Ipufh3DTj/uwBHs3m4malpmt5sR1JPE=</DigestValue></Reference></SignedInfo><SignatureValue>Ibinm7fXBmxO4A2Mlj76DFgUGD8x6EycBGzzL1eUwT1OvDWNTrfhIOmbTUrrGAKUeXhGSKf6xClh2qC9PtOWzi0qiA1LBg/veI30jGPJi1zE24RdHpDi+hmSG42NlBPXo1sMViNzLHkOY3iYk4bSfjhgZAapdyDc5kqcvCruVjg=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>hOECPqX+2KbLfASkpgrH7oSxsJ4xfqqQulMqYo/kj6Ru4DzNSSFibY6cSoo6N6GqWAZZva/n8cm78gVrZxQJkUEf0/Iisnuxk/c0RSTitHngcUlwShevXaUCl5xDcaHsB3alsVyf/z/g23CRGSvj2avkf2CdmxDFRdEz5pFx+HU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f12475c4e6ad99969a899b377b04b0fb8fd370879f9b22b821dd6d4a23f86628" Description="" Url=""><as:assemblyIdentity name="CMP1124M Banks.exe" version="1.0.0.0" publicKeyToken="c6c76a665c1b94f4" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ADAM-LAPTOP\Adam</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>mzqt0XKIAaissRnZqDQ3gT9muf0fRQ9DnQUvKV14K2Q=</DigestValue></Reference></SignedInfo><SignatureValue>LMMhwoM6QK098b0VSln44wQNtSV/QcddQDEZPZZAK1Tsleb+r0ez/VEVDPqpV2mzNZokepbDmMfLx9/MjjvY6ZQ63E5g6y9C6cu3NR0qBPuKMg0RXx2l8vnw9YfzBv8Me7vwQhSle6NHLAhue5XkhLbbrG/Yqsd9aFlfeAhPfSs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>hOECPqX+2KbLfASkpgrH7oSxsJ4xfqqQulMqYo/kj6Ru4DzNSSFibY6cSoo6N6GqWAZZva/n8cm78gVrZxQJkUEf0/Iisnuxk/c0RSTitHngcUlwShevXaUCl5xDcaHsB3alsVyf/z/g23CRGSvj2avkf2CdmxDFRdEz5pFx+HU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB2TCCAUKgAwIBAgIQHZ+3cWKqJ4BCWgT/Q6Lo8TANBgkqhkiG9w0BAQsFADArMSkwJwYDVQQDHiAAQQBEAEEATQAtAEwAQQBQAFQATwBQAFwAQQBkAGEAbTAeFw0xNTA0MjAwMzAyMjlaFw0xNjA0MTkwOTAyMjlaMCsxKTAnBgNVBAMeIABBAEQAQQBNAC0ATABBAFAAVABPAFAAXABBAGQAYQBtMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCE4QI+pf7Ypst8BKSmCsfuhLGwnjF+qpC6Uypij+SPpG7gPM1JIWJtjpxKijo3oapYBlm9r+fxybvyBWtnFAmRQR/T8iKye7GT9zRFJOK0eeBxSXBKF69dpQKXnENxoewHdqWxXJ//P+DbcJEZK+PZq+R/YJ2bEMVF0TPmkXH4dQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAHtItwvL80Zd7MIcNrqdzmA1eU22OPUuk7zU0dhI0syDX+yqt9q4iIKU+0/9kRBisiYL+LrO4tYatNM6ea2FC/0/hqHYmL3VNWIZ7oJMyUrwXFXONWqZ6flWTSOS70/3YnNvGoy3/QvNqxZ1mwprTLfKb26vpaj142wY7VW+AFoU</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
